@@ -1,12 +1,13 @@
 # customtkinter
 
-simple app in Python customtkinter
+a simple python customtkinter programm, showing a "hello, world".
 
-## required
+### required to execute
 
-1. install python
-2. windows 8+
-3. configured pip
+1. windows 8+
+2. python 12+
+
+### install customtkinter
 
 ```bash
 pip install customtkinter
