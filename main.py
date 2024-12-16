@@ -1,4 +1,4 @@
-import customtkinter as ctk # importando a biblioteca customtkinter
+import customtkinter as ctk # importing customtkinter
 
 class main (ctk.CTk) :
   def __init__(self) :
